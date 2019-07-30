@@ -1,0 +1,1 @@
+lastDate='2019-7-29';lastMonth='7';
